@@ -14,7 +14,7 @@ knitr::opts_chunk$set(
 
 # praiseme
 
-The goal of praiseme is to deliver some lovely praise, just when you need it!
+The goal of praiseme is to deliver some lovely praise, just when you need it, and it's awesome!
 
 ## Installation
 
